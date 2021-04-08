@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBookingCompleteAPI", "eBookingCompleteAPI\eBookingCompleteAPI.csproj", "{19E7926E-F414-45B5-9917-D7366F704CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbookingComplete_DAL", "EbookingComplete_DAL\EbookingComplete_DAL.csproj", "{83A66326-43B5-4C35-95C3-AA1CCBE7BE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E7926E-F414-45B5-9917-D7366F704CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E7926E-F414-45B5-9917-D7366F704CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E7926E-F414-45B5-9917-D7366F704CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E7926E-F414-45B5-9917-D7366F704CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A66326-43B5-4C35-95C3-AA1CCBE7BE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A66326-43B5-4C35-95C3-AA1CCBE7BE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A66326-43B5-4C35-95C3-AA1CCBE7BE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A66326-43B5-4C35-95C3-AA1CCBE7BE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C701C5D-22AE-46EA-BE5D-0E902BCFAF56}
+	EndGlobalSection
+EndGlobal
